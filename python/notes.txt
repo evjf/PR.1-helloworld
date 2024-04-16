@@ -1,0 +1,11 @@
+Command(s) needed to make the program run
+
+python hello.py
+
+Make sure you are using the right version of python. You can see the version with
+
+python --version
+
+If you are seeing a version less than 3.0, then try running
+
+python3 hello.py

@@ -1,0 +1,5 @@
+To view the html file, it is best to use a browser. There are command line web browsers. I use lynx.
+
+lynx hello.html
+
+Also, html isn't a programming language, it is a mark up language, so there is a bit more going on with hello.html than necessary. For the bare minimum, but still get a browser to display "Hello World", simple.html is provided.

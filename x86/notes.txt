@@ -1,0 +1,6 @@
+Command(s) needed to make the program run
+
+as hello.s -o hello.o 
+ld -o hello hello.o
+./hello
+

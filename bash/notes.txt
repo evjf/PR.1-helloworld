@@ -1,0 +1,11 @@
+Command(s) needed to make the program run
+
+bash hello.sh
+
+Often, bash scripts are made executable. To do that, you need to change permission settings for the file.
+
+chmod 755 hello.sh
+
+Once the permissions have been changed, you can run the script with
+
+./hello.sh

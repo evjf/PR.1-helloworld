@@ -1,0 +1,10 @@
+Command(s) needed to make the program run
+
+dotnet new console -o Hello
+mv Program.cs Hello/Program.cs
+cd Hello
+dotnet run
+
+There are different options for software to setup and run C# code. I used
+
+dotnet-sdk-7.0

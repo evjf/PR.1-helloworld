@@ -1,0 +1,6 @@
+Command(s) needed to make the program run
+
+cobc -x hello.cbl
+./hello
+
+There is a small.cbl file, which is the minimum needed for the code to work.

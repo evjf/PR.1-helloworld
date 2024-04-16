@@ -1,0 +1,4 @@
+Command(s) needed to make the program run
+
+gcc -o hello.out hello.c
+./hello.out

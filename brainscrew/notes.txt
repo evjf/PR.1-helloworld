@@ -1,0 +1,9 @@
+Command(s) needed to make the program run
+
+beef hello.b
+
+You can also run the script using
+
+bf hello.b
+
+NOTE: beef and bf behave differently, and sometimes one works when the other does not.

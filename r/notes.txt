@@ -1,0 +1,10 @@
+Command(s) needed to make the program run
+
+Rscript hello.r
+
+
+I installed the following to get this to work.
+
+r-base-core
+
+simple.r is the minimum needed to print "Hello World" to a console.

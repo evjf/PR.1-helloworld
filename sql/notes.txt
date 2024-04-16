@@ -1,0 +1,11 @@
+In order for this to work, you need to set up mysql, which is not a simple task unless you are familiar with how mysql functions, and by that I don't mean just how to write queries. The command provided assumes there already exists a database labeled "hello" which is not something that just exists, but must be setup to get this to work. 
+
+Command(s) needed to make the program run
+
+mysql hello < hello.sql > output.txt
+
+Please be aware that the < and > symbols are part of bash, not mysql. They represent the movement of data, so in this case the information in input.sql goes into mysql, and the data that comes out of mysql gets stored into output.txt. If you want to know more about this bash feature, look up bash pipes.
+
+simple.sql shows the minimum needed to get "Hello World" to show up in a file or on the console.
+
+mysql < simple.sql

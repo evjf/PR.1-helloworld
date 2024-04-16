@@ -1,0 +1,6 @@
+LOLCODE is based on the following git repository. Follow the instructions there to get it installed.
+https://github.com/justinmeza/lci.git
+
+Command(s) needed to make the program run once lci is setup
+
+lci hello.lol

@@ -1,0 +1,9 @@
+Command(s) needed to make the program run
+
+go run hello.go
+
+
+You can also compile the script and run it like a program
+
+go build hello.go
+./hello

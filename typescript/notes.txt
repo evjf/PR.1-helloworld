@@ -1,0 +1,5 @@
+Command(s) needed to make the program run
+
+ts-node hello.ts
+
+There is a simplier version that would work in typescript, it is the code found in the javascript folder.

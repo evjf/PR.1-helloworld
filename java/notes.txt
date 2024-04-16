@@ -1,0 +1,4 @@
+Command(s) needed to make the program run
+
+javac Hello.java
+java Hello

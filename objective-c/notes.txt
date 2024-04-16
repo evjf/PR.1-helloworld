@@ -1,0 +1,12 @@
+Command(s) needed to make the program run
+
+gcc -o hello -l objc hello.m
+./hello
+
+What I installed to get this to work.
+
+gobjc
+gobjc++
+gobjc++-mingw-w64
+gobjc++-mingw-w64-i686
+gobjc++-mingw-w64-x86-64
