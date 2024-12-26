@@ -2,3 +2,5 @@ Command(s) needed to make the program run
 
 g++ hello.cpp
 ./a.out
+
+Technically, C+ is a superset of C, meaning any C code can be run in C++ as is.
