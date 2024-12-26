@@ -1,9 +1,11 @@
+Instead of screw, it's the f-word.
+
 Command(s) needed to make the program run
 
-beef hello.b
+beef hello.bf
 
 You can also run the script using
 
-bf hello.b
+bf hello.bf
 
 NOTE: beef and bf behave differently, and sometimes one works when the other does not.
